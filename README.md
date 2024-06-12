@@ -51,7 +51,6 @@ Hi, my name is Eduardo Lopez, I'm 24 years old and I really enjoy programming. I
 ### Libraries/APIs
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Redux-Saga](https://img.shields.io/badge/Redux--Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Calendar API](https://img.shields.io/badge/Google_Calendar_API-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=for-the-badge&logo=microsoftgraph&logoColor=white)
@@ -77,12 +76,12 @@ Hi, my name is Eduardo Lopez, I'm 24 years old and I really enjoy programming. I
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Agile
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
@@ -94,13 +93,13 @@ Hi, my name is Eduardo Lopez, I'm 24 years old and I really enjoy programming. I
 ![Full-stack](https://img.shields.io/badge/Full--stack-4285F4?style=for-the-badge&logo=fullstack&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-4EA94B?style=for-the-badge&logo=architecture&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-525252?style=for-the-badge&logo=security&logoColor=white)
 ![IT Security](https://img.shields.io/badge/IT_Security-525252?style=for-the-badge&logo=itsecurity&logoColor=white)
 ![Leadership](https://img.shields.io/badge/Leadership-4A154B?style=for-the-badge&logo=leadership&logoColor=white)
 ![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CI/CD Pipelines](https://img.shields.io/badge/CI/CD_Pipelines-02569B?style=for-the-badge&logo=cicd&logoColor=white)
 ![Jitsi](https://img.shields.io/badge/Jitsi-003366?style=for-the-badge&logo=jitsi&logoColor=white)
+![BigBlueButton](https://img.shields.io/badge/BigBlueButton-1E90FF?style=for-the-badge&logo=bbb&logoColor=white)
 
 ### Languages
 ![English](https://img.shields.io/badge/English-007396?style=for-the-badge&logo=language&logoColor=white)
